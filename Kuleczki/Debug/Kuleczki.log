@@ -1,0 +1,4 @@
+﻿  okno.cpp
+c:\users\piotr\documents\github\kuleczki\kuleczki\kuleczki\okno.cpp(12): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Kuleczki.vcxproj -> C:\Users\Piotr\Documents\GitHub\Kuleczki\Kuleczki\Debug\Kuleczki.exe
+  Kuleczki.vcxproj -> C:\Users\Piotr\Documents\GitHub\Kuleczki\Kuleczki\Debug\Kuleczki.pdb (Partial PDB)
